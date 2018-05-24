@@ -20,7 +20,7 @@
 
 </head>
 <body>
-<br>
+<br>  
 <div class="form-div"  style="margin-top: 150px;">
     <form id="reg-form" action="loginUser" method="post">
         <table>
